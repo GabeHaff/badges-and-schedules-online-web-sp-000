@@ -1,8 +1,8 @@
 # Write your code here.
-def batch_badge_creator(names)
+def badge_maker(names)
   names=[]
   names.each do |name|
-  puts "Hello, my name is #{names}."
+  puts "Hello, my name is #{name}."
   
 end 
 end 

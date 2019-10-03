@@ -1,6 +1,6 @@
 # Write your code here.
 def badge_maker(names)
-  return "Hi, my name is #{names}."
+  return "Hello, my name is #{names}."
 end 
 def batch_badge_creator(names)
   names=[]

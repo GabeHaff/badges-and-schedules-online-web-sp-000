@@ -1,2 +1,5 @@
 # Write your code here.
-def 
+def batch_badge_creator(names)
+  names=[]
+  
+end 

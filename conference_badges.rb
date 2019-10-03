@@ -14,4 +14,4 @@ end
 def assign_rooms(attendees)
  rooms=[]
   rooms.each do |attendee|
-  
+  attendee
